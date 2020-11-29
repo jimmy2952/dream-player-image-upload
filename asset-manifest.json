@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/dream-image-upload/static/css/main.419fa68c.chunk.css",
-    "main.js": "/dream-image-upload/static/js/main.f2e47061.chunk.js",
-    "main.js.map": "/dream-image-upload/static/js/main.f2e47061.chunk.js.map",
-    "runtime-main.js": "/dream-image-upload/static/js/runtime-main.99a22d56.js",
-    "runtime-main.js.map": "/dream-image-upload/static/js/runtime-main.99a22d56.js.map",
-    "static/js/2.d25fa572.chunk.js": "/dream-image-upload/static/js/2.d25fa572.chunk.js",
-    "static/js/2.d25fa572.chunk.js.map": "/dream-image-upload/static/js/2.d25fa572.chunk.js.map",
-    "static/js/3.42ea5cc8.chunk.js": "/dream-image-upload/static/js/3.42ea5cc8.chunk.js",
-    "static/js/3.42ea5cc8.chunk.js.map": "/dream-image-upload/static/js/3.42ea5cc8.chunk.js.map",
-    "index.html": "/dream-image-upload/index.html",
-    "static/css/main.419fa68c.chunk.css.map": "/dream-image-upload/static/css/main.419fa68c.chunk.css.map",
-    "static/js/2.d25fa572.chunk.js.LICENSE.txt": "/dream-image-upload/static/js/2.d25fa572.chunk.js.LICENSE.txt"
+    "main.css": "/dream-player-image-upload/static/css/main.419fa68c.chunk.css",
+    "main.js": "/dream-player-image-upload/static/js/main.f2e47061.chunk.js",
+    "main.js.map": "/dream-player-image-upload/static/js/main.f2e47061.chunk.js.map",
+    "runtime-main.js": "/dream-player-image-upload/static/js/runtime-main.8da678d9.js",
+    "runtime-main.js.map": "/dream-player-image-upload/static/js/runtime-main.8da678d9.js.map",
+    "static/js/2.6630d844.chunk.js": "/dream-player-image-upload/static/js/2.6630d844.chunk.js",
+    "static/js/2.6630d844.chunk.js.map": "/dream-player-image-upload/static/js/2.6630d844.chunk.js.map",
+    "static/js/3.42ea5cc8.chunk.js": "/dream-player-image-upload/static/js/3.42ea5cc8.chunk.js",
+    "static/js/3.42ea5cc8.chunk.js.map": "/dream-player-image-upload/static/js/3.42ea5cc8.chunk.js.map",
+    "index.html": "/dream-player-image-upload/index.html",
+    "static/css/main.419fa68c.chunk.css.map": "/dream-player-image-upload/static/css/main.419fa68c.chunk.css.map",
+    "static/js/2.6630d844.chunk.js.LICENSE.txt": "/dream-player-image-upload/static/js/2.6630d844.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.99a22d56.js",
-    "static/js/2.d25fa572.chunk.js",
+    "static/js/runtime-main.8da678d9.js",
+    "static/js/2.6630d844.chunk.js",
     "static/css/main.419fa68c.chunk.css",
     "static/js/main.f2e47061.chunk.js"
   ]
